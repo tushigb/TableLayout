@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Version History</string>
+    <string name="add">Add</string>
+    <string name="android_version">Version</string>
+    <string name="android_name">Code Name</string>
+    <string name="android44">Android 4.4</string>
+    <string name="android5">Android 5.0</string>
+    <string name="kitkat">KitKat</string>
+    <string name="lollipop">Lollipop</string>
+</resources>

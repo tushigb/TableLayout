@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#6A67CE</color>
+    <color name="secondary">#FC636B</color>
+    <color name="black">#F0000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan">#1AAFD0</color>
+</resources>
